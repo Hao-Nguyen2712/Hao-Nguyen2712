@@ -29,12 +29,4 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hao-Nguyen2712&show_icons=true&theme=github_dark" />
-</p>
-
----
-
 > I'm building, breaking, and learning every day — aiming to become a solid backend developer. 🚀
