@@ -5,7 +5,7 @@
 
 ### 👨‍🎓 About Me
 
-- 🎓 I’m a recent graduate majoring in **Software Engineer** from FPT University   
+- 🎓 I’m a recent graduate majoring in **Software Engineering** from FPT University   
 - 🌱 Currently learning and deepening my knowledge in **backend development**  
 - 💡 I’m interested in topics like:
   - .NET Core
