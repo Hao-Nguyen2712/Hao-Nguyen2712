@@ -12,7 +12,8 @@
   - RESTful API design
   - Azure Service
   - Database design and optimization 
-- 📫 You can reach me at **hao.nguyenchanh2712@gmail.com**  
+- 📫 You can reach me at **hao.nguyenchanh2712@gmail.com**
+- 🔗 Or in linkedln at **www.linkedin.com/in/hao-nguyen-chanh** 
 
 ---
 
