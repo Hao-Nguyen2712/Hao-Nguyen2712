@@ -2,20 +2,6 @@
 <h3 align="center">A young developer with passion for backend especially with .NET Core</h3>
 
 ---
-
-### 👨‍🎓 About Me
-
-- 🎓 I’m a recent graduate majoring in **Software Engineering** from FPT University   
-- 🌱 Currently learning and deepening my knowledge in **backend development**  
-- 💡 I’m interested in topics like:
-  - .NET Core
-  - RESTful API design
-  - Database design and optimization 
-- 📫 You can reach me at **hao.nguyenchanh2712@gmail.com**
-- 🔗 Or in linkedln at **www.linkedin.com/in/hao-nguyen-chanh** 
-
----
-
 ### 🛠 Technologies I'm using
 
 <p align="left">
@@ -27,6 +13,4 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
----
 
-> I'm building, breaking, and learning every day — aiming to become a solid backend developer. 🚀
