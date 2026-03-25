@@ -1,5 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=Hao-Nguyen2712&label=Profile%20Views&color=ff79c6&style=flat-square" alt="Profile Views" />
-
 <div align="center">
   <h1>Hi 👋, I'm Nguyen Chanh Hao</h1>
   <h3>A young developer with passion for backend especially with .NET Core</h3>
